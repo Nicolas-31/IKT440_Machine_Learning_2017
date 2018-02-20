@@ -1,0 +1,13 @@
+Assignment
+Author: Nicolas Anderson
+Correct classifications 432
+Wrong classifications 403
+Accuracy 0.5173652694610779
+tran.csv : tranining data
+---------------------------------------------------------------------------------------------------------------------
+Author: Dr.Morten Goodwin(DT-lecture)
+Correct classifications 351
+Wrong classifications 94
+Accuracy 0.7887640449438202
+titanic.csv: training data
+
