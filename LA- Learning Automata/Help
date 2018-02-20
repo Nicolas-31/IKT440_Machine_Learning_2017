@@ -1,0 +1,37 @@
+Results
+****************
+States: 1
+Iterations:  1000
+Correct:  165
+Accuracy:  0.165
+
+--
+
+States: 2
+Iterations:  1000
+Correct:  190
+Accuracy:  0.19
+
+--
+
+States: 3
+Iterations:  1000
+Correct:  320
+Accuracy:  0.32
+
+--
+
+States: 5
+Iterations:  1000
+Correct:  685
+Accuracy:  0.685
+
+--
+
+States: 10
+Iterations:  1000
+Correct:  989
+Accuracy:  0.989
+
+--
+at 10 states it achieves almost 99% accuracy 
