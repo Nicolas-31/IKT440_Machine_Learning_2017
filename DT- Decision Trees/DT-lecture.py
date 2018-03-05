@@ -38,7 +38,7 @@ def entropy(oneclass):
 # print(entropy(trainingdata))
 
 def split(data, attribute, remove=False):
-    retvals = {}
+    retvals = {} #retvals = return values
     # allattributes = set([i[attribute] for i in data])
     for d in data:
         c = d[attribute]
